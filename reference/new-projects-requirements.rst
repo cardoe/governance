@@ -59,6 +59,9 @@ When considering new projects for addition, the TC will check that:
     * The project uses public code reviews on the OpenStack infrastructure
     * The project has core reviewers and adopts a test-driven gate in the
       OpenStack infrastructure for changes
+    * The project documents how contributors become core reviewers and how
+      continued core reviewer status is evaluated, as required by
+      :doc:`/resolutions/20261012-document-core-reviewer-processes`
     * The project provides liaisons that serve as contacts for the work of
       cross-project teams in OpenStack
     * Where it makes sense, the project cooperates with existing projects
